@@ -59,7 +59,7 @@ function ContactPage(){
               <input type="email" id="email" name="email" placeholder="Your email" required />
 
               <label htmlFor="message">Message</label>
-              <textarea id="message" name="message" rows="5" placeholder="Your message" required />
+              <textarea id="message" name="message" rows={5} placeholder="Your message" required />
 
               <button type="submit">Submit</button>
           </form>

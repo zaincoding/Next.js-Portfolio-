@@ -1,7 +1,8 @@
 
 import cssStyle  from './contact.module.css';
 import Link from 'next/link';
-import Image from 'next/image;
+import Image from 'next/image';
+
 console.log(cssStyle, "CSS-style")
 
 

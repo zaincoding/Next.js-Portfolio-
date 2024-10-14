@@ -1,5 +1,6 @@
 import Link from "next/link";
 import web from '../Web-Development/web.module.css';
+import Image from 'next/image';
 
 console.log(web, "CSS-web");
 

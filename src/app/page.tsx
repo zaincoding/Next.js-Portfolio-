@@ -26,7 +26,7 @@ function HomePage(){
     <div>
       <div>
         <nav id="nav">
-  <img src="/images/logo2.png" alt="logo" className='logo'/>
+  <img src="/images/logo2.PNG" alt="logo" className='logo'/>
           <ul>
             <li>
               <Link href="/">Home</Link>
@@ -43,7 +43,7 @@ function HomePage(){
 
 
           <div className="container">
-  <img src="/images/Profile.png" alt="profile image" className="profile-image" />
+  <img src="/images/Profile.PNG" alt="profile image" className="profile-image" />
   <p  className="text"><span id="dynamic-text"></span><br/>
     I am a passionate web developer dedicated to building responsive, user-friendly websites. With a strong foundation in HTML, CSS, JavaScript, and TypeScript, I specialize in crafting tailored web solutions that meet specific client needs.
 <br/> My expertise in modern technologies, particularly Tailwind CSS and React, enables me to create dynamic, high-performance web applications that offer seamless, engaging user experiences.

@@ -11,7 +11,7 @@ function SEO(){
         <div>
         <div>
         <nav id="nav">
-  <Image src="/images/logo2.png" alt="logo" className='logo'/>
+  <Image src="/images/logo2.PNG" alt="logo" className='logo'/>
           <ul>
             <li>
               <Link href="/">Home</Link>

@@ -1,5 +1,6 @@
 import cssStyle from "./about.module.css";
 import Link from 'next/link';
+import Image from 'next/Link';
 
 console.log(cssStyle,"CSS-style");
 
@@ -9,7 +10,7 @@ function AboutPage(){
  <div>
  <div>
         <nav id="nav">
-  <img src="/images/logo2.png" alt="logo" className='logo'/>
+  <Image src="/images/logo2.png" alt="logo" className='logo'/>
           <ul>
             <li>
               <Link href="/">Home</Link>

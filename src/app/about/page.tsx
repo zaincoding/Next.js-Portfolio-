@@ -1,4 +1,3 @@
-import { Section } from "lucide-react";
 import cssStyle from "./about.module.css";
 import Link from 'next/link';
 

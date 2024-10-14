@@ -29,7 +29,7 @@ function Marketing(){
         I offer professional social media marketing services to help grow your brand and engage your audience across platforms like Facebook, Instagram, Twitter, and LinkedIn.
          My services include creating tailored content, managing social media accounts, developing strategies to boost engagement, and running targeted ad campaigns to reach the right audience.
         I focus on enhancing your online presence, building brand awareness, and driving traffic to your website. Whether you need content creation, 
-        community management, or paid advertising, my social media marketing services are designed to deliver measurable results and increase your business's success online
+        community management, or paid advertising, my social media marketing services are designed to deliver measurable results and increase your business^apos;s success online
              </p>
              
         </div>

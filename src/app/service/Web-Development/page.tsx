@@ -1,4 +1,4 @@
-
+import Image from 'next/image';
 import web from './web.module.css'
 import Link from 'next/link';
 const WebDevelopment = () =>{

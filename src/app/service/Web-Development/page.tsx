@@ -39,7 +39,7 @@ const WebDevelopment = () => {
                 I am a web development expert offering professional services in creating responsive, dynamic, and user-friendly websites.
                 With expertise in HTML, CSS, JavaScript, TypeScript, and modern frameworks like React and Next.js,
                 I specialize in building high-performance web applications. 
-                Whether it's front-end design using Tailwind CSS or integrating back-end functionality,
+                Whether it\'s front-end design using Tailwind CSS or integrating back-end functionality,
                 I deliver tailored solutions to meet business needs. From simple landing pages to complex web applications, 
                 I ensure the highest standards of functionality, design, and performance.
                 With a keen focus on user experience and optimization,

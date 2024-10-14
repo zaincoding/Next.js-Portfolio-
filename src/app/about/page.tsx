@@ -1,6 +1,6 @@
 import cssStyle from "./about.module.css";
 import Link from 'next/link';
-import Image from 'next/Link';
+import Image from 'next/image';
 
 console.log(cssStyle,"CSS-style");
 

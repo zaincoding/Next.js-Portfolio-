@@ -31,7 +31,7 @@ function Graphics(){
               From typography to color schemes and layouts, I create visually appealing and impactful designs that resonate with your target audience.
 
 My services cover a wide range of design needs, including logo design, business cards, posters, flyers, banners, and more. 
-Whether you're launching a new product, updating your brand’s image, or need graphics for online and print platforms,
+Whether you&apos;re launching a new product, updating your brand’s image, or need graphics for online and print platforms,
  I work closely with you to ensure that your message is delivered effectively through creative design.
              </p>
              

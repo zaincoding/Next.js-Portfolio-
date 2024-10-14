@@ -8,7 +8,7 @@ const WebDevelopment = () => {
             <div>
                 <nav id="nav">
                     <Image
-                        src="/images/logo2.png"
+                        src="/images/logo2.PNG"
                         alt="logo"
                         className='logo'
                         width={150}  

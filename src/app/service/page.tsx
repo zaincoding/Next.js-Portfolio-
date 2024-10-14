@@ -16,7 +16,7 @@ function  ServicePage(){
         <div>
  <div>
         <nav id="nav">
-  <img src="/images/logo2.png" alt="logo" className='logo'/>
+  <img src="/images/logo2.PNG" alt="logo" className='logo'/>
           <ul>
             <li>
               <Link href="/">Home</Link>

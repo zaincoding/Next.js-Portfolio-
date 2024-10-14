@@ -10,7 +10,7 @@ function ContentWritting(){
         <div>
         <div>
         <nav id="nav">
-  <img src="/images/logo2.png" alt="logo" className='logo'/>
+  <Image src="/images/logo2.png" alt="logo" className='logo'/>
           <ul>
             <li>
               <Link href="/">Home</Link>

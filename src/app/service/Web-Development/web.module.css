@@ -1,0 +1,49 @@
+
+.h1{
+    text-align: center;
+    color:rgb(232, 242, 249);
+    font-size: 42px;
+    font-weight: 700;
+}
+
+.p{
+   font-size: 27px;
+   font-family: 'Courier New', Courier, monospace; 
+   font-weight: 700;
+   background-color: white;
+   line-height: 340%;
+} 
+
+.p:hover{
+    background-color: rgb(230, 228, 228);
+}
+
+.btn{
+    padding: 12px;
+    margin-left: 10px;
+    border:2px solid #6d6868;
+    background-color:rgb(2, 34, 2);
+    border-radius: 8px;
+    margin-bottom: 8px;
+
+}
+
+.btn a{
+    text-decoration: none;
+    font-size: 22px;
+    color:white;
+    font-weight: 700;
+    
+}
+
+.btn:hover{
+    background-color:rgb(10, 77, 10);
+}
+
+.text{
+    margin-left:700px;
+    color:rgb(4, 1, 21);
+    font-weight: 700;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 23px;
+}

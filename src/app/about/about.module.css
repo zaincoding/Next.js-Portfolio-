@@ -1,0 +1,134 @@
+html,body{
+  background-color: rgb(112, 119, 125); 
+}
+
+.about{
+    text-align: center;
+    background-color: rgb(112, 118, 122);
+    font-size: 70px;
+    color:rgb(234, 234, 241);
+    margin-top: 0px;
+  }
+
+  .aboutGrid{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 30px;
+    margin-top: 20px;
+    padding-left: 25px;
+    justify-items: center;
+    min-height: 60vh;
+     width: 95%;
+    
+  }
+
+  .aboutItem{
+    border: 3px solid #686869;
+    font-size: 22px;
+    line-height: 40px;
+    background-color: #ffffff;
+    border-radius: 12px;
+    max-width: 1200px;
+    font-family:'Times New Roman', Times, serif;
+    box-shadow: 8px 16px #222121;
+  }
+
+
+  .aboutCenter{
+   grid-column: 1/-1;
+   text-align: center;
+    padding: 10px;       
+  }
+
+  .aboutItem:hover{
+    background-color: #a4a0a0;
+  }
+
+/*responsive start
+
+
+
+Responsive End*/
+
+
+.cont {
+  width: 80%;
+  min-height: 80vh;
+  margin: 0 auto;
+  padding: 20px 0;
+  position: relative;
+  background-color: white;
+}
+
+.verticalLine{
+  margin-top: 40px;
+  padding: 2px;
+  background-color: rgb(99, 78, 78);
+  width:0px;
+  height: 680px;
+  position: absolute;
+  margin-left: 15%;
+}
+.eduH2{
+  font-size: 40px;
+  font-weight: 700;
+  text-align: center;
+  color:rgb(217, 213, 213);
+
+}
+
+.leftColumn {
+  position: absolute;
+  left: -5%;
+  width: 20%;
+  text-align: right;
+  color: #333;
+  
+}
+
+.leftColumn .year {
+  font-size: 1.2rem;
+  margin-bottom: 42%;
+  padding-top: 15%;
+}
+
+.rightColumn {
+  margin-left: 250px ;
+  margin-top: 20px;
+}
+.rightColumn{
+  margin-bottom: 50px;
+}
+
+.rightColumn .card h3{
+  font-size: 1.8rem;
+}
+
+.rightColumn .card P{
+  font-size: 20px;
+  font-family: 'Courier New', Courier, monospace;
+  margin-left: 50px;
+  font-weight: 700;
+}
+
+.rightColumn .card h3:hover,
+.rightColumn .card p:hover{
+
+  background-color: #aca4a4;
+  font-size: 25px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

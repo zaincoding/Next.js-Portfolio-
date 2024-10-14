@@ -1,0 +1,92 @@
+.contact {
+    padding-right: 0px;
+    margin: 0 auto;
+    background-color: #b0b2b8;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    margin-top: -50px;
+
+}
+
+.contactContainer {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+
+
+.contactAddress {
+    flex: 1;
+    max-width: 250px;
+    margin-top: 150px;
+}
+
+.contactAddress div{
+      
+    background-color: #8f8fa3;
+    border-radius: 10px;
+    text-align: center;
+
+}
+.contactAddress div:hover{
+    background-color: #9e9eae;
+}
+
+.contactAddress h4{
+    color:#0000ff;
+    margin-top: 10px;
+    font-size: large;
+}
+
+.contactPage{
+    margin-left: 40%;
+    font-size: 40px;
+    margin-top: 40px;
+    font-weight: 700;
+    color:white;
+}
+
+.contactForm {
+    flex: 1;
+    
+}
+
+.contactForm form {
+    display: flex;
+    flex-direction: column;
+    padding: 10%;
+}
+
+.contactForm label {
+ 
+    font-size: 18px;
+}
+
+.contactForm input {
+ 
+padding: 10px;
+border:3px solid #080800;
+border-radius: 10px;
+}
+
+.contactForm textarea {
+ 
+    padding: 80px;
+    border-radius: 10px;
+}
+
+.contactForm button {
+    padding: 10px 20px;
+    background-color: #606163;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 18px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.contactForm button:hover {
+    background-color: #292c29;
+}

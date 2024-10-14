@@ -1,0 +1,47 @@
+.services{
+
+    font-size: 50px;
+    text-align: center;
+    margin-top: 50px;
+    font-weight: 700;
+    color:white;
+}
+
+.boxContainer{
+    display:grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-gap: 20px;
+    justify-items: center;
+    background-color: white;
+    line-height: 50px;
+}
+
+.boxes{
+    width: 100%;
+    max-width: 500px;
+    padding: 20px;
+    background-color: rgb(53, 81, 105);
+
+}
+
+
+
+.boxes div{
+    text-align: center;
+    background-color: rgb(143, 140, 140);
+    border-radius: 50px;
+    padding: 10px;
+    margin-left: 10px;
+}
+
+.boxes div:hover{
+    background-color: rgb(179, 210, 179);
+}
+
+.boxes div a{
+    text-decoration: none;
+}
+
+.boxes div p{
+    color:black;
+}

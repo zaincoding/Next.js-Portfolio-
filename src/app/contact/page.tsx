@@ -1,7 +1,7 @@
 
 import cssStyle  from './contact.module.css';
 import Link from 'next/link';
-
+import Image from 'next/image;
 console.log(cssStyle, "CSS-style")
 
 
@@ -12,7 +12,7 @@ function ContactPage(){
     <div>
  <div>
         <nav id="nav">
-  <img src="/images/logo2.png" alt="logo" className='logo'/>
+  <Image src="/images/logo2.png" alt="logo" className='logo'/>
           <ul>
             <li>
               <Link href="/">Home</Link>

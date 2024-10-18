@@ -31,7 +31,7 @@ function Editing(){
                I work with various video formats and tailor each project to suit your brand or message, delivering high-quality results on time.
                 Let’s collaborate to create videos that stand out.
 <div className={web.div}>
-        <button  className={web.btn}><Link href="/contact">Click Here</Link></button>
+        <button  className={web.btn}><Link href="/contact">Contact Us to Avail Service</Link></button>
 </div>
         </p>
              

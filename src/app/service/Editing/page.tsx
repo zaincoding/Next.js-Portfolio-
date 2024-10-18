@@ -30,11 +30,12 @@ function Editing(){
               My services include cutting footage, adding transitions, color grading, sound design, and motion graphics to ensure a polished final product.
                I work with various video formats and tailor each project to suit your brand or message, delivering high-quality results on time.
                 Let’s collaborate to create videos that stand out.
-             </p>
+<div className={web.div}>
+        <button  className={web.btn}><Link href="/contact">Click Here</Link></button>
+</div>
+        </p>
              
         </div>
-        <br/> <span className={web.text}>For Contact</span>
-        <button  className={web.btn}><Link href="/contact">Click Here</Link></button>
         </div>
     )
 }

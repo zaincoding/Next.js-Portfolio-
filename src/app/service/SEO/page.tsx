@@ -29,11 +29,13 @@ function SEO(){
             With a focus on both on-page and off-page SEO, I ensure that your site is optimized for relevant keywords, has fast loading times, and is mobile-friendly. 
             I also implement strategies to enhance your site&apos;s content, structure, and backlink profile, driving more organic traffic and improving search rankings.
              Whether you’re a small business or a growing enterprise, my SEO services are tailored to meet your needs and help you achieve your digital marketing goals.
-             </p>
+            
+                   <div className={web.div}>
+             <button  className={web.btn}><Link href="/contact">Contact Us to Avail Service</Link></button>
+           </div>
+        </p>
              
         </div>
-        <br/> <span className={web.text}>For Contact</span>
-        <button  className={web.btn}><Link href="/contact">Click Here</Link></button>
         </div>
     )
 }

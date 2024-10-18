@@ -33,11 +33,12 @@ function Graphics(){
 My services cover a wide range of design needs, including logo design, business cards, posters, flyers, banners, and more. 
 Whether you&apos;re launching a new product, updating your brand’s image, or need graphics for online and print platforms,
  I work closely with you to ensure that your message is delivered effectively through creative design.
-             </p>
+                   <div className={web.div}>
+             <button  className={web.btn}><Link href="/contact">Contact Us to Avail Service</Link></button>
+           </div>
+        </p>
              
         </div>
-        <br/> <span className={web.text}>For Contact</span>
-        <button  className={web.btn}><Link href="/contact">Click Here</Link></button>
         </div>
     )
 }

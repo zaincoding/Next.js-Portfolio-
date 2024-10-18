@@ -30,11 +30,13 @@ function Marketing(){
          My services include creating tailored content, managing social media accounts, developing strategies to boost engagement, and running targeted ad campaigns to reach the right audience.
         I focus on enhancing your online presence, building brand awareness, and driving traffic to your website. Whether you need content creation, 
         community management, or paid advertising, my social media marketing services are designed to deliver measurable results and increase your business^apos;s success online
-             </p>
+            
+                   <div className={web.div}>
+             <button  className={web.btn}><Link href="/contact">Contact Us to Avail Service</Link></button>
+           </div>
+        </p>
              
         </div>
-        <br/> <span className={web.text}>For Contact</span>
-        <button  className={web.btn}><Link href="/contact">Click Here</Link></button>
         </div>
     )
 }
